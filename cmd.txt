@@ -1,0 +1,7 @@
+how ti setuo noide 
+
+
+isntalling node 
+npm init   - to install node enviroment
+npm i mongoose express cors nodemon jsonwebtoken  - pakage 
+npx nodemon index.js - to run the cod... during run time.... 
